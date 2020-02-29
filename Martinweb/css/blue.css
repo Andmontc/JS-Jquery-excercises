@@ -1,0 +1,19 @@
+@charset "utf-8";
+body{
+	background: url(https://image.freepik.com/foto-gratis/fondo-cielo-azul-es-brillante-hermoso-manana_71793-17.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;  
+}
+
+#logo{
+	background:#67A8D1;
+}
+
+#menu ul li:hover{
+	background: rgba(71,190,192,1.00);
+}
+.button-mas{
+	background:#3965A8;
+}

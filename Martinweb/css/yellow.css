@@ -1,0 +1,20 @@
+@charset "utf-8";
+body{
+	background: url(https://st2.depositphotos.com/3297491/9114/v/950/depositphotos_91147304-stock-illustration-yellow-orange-background-with-sun.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;  
+}
+
+#logo{
+	background:#E3DD47;
+}
+
+#menu ul li:hover{
+	background:#CBCA2D;
+}
+.button-mas{
+	background:#F8F72C;
+}
+

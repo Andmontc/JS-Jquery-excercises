@@ -1,0 +1,19 @@
+@charset "utf-8";
+body{
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6DINhP0y-NuOc4ghhMij8YvOCpDFGyZq2E83itZPPcBTne0JQ5Q);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;  
+}
+
+#logo{
+	background:#6CA754;
+}
+
+#menu ul li:hover{
+	background:#508723;
+}
+.button-mas{
+	background:#007627;
+}
