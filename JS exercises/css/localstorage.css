@@ -1,0 +1,11 @@
+@charset "utf-8";
+.movies{
+	width: auto;
+	height: auto;
+	float: right;
+	border: dashed 3px#000000;
+	padding: 10px;
+	margin-right: 600px;
+	margin-top: inherit;
+}
+
